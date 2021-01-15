@@ -7,7 +7,7 @@
 
 
 ### About me
-I'm an architect in [open architecture](https://github.com/Arquitetura-Aberta/info).
+I'm an architect in [Arquitetura Aberta](https://github.com/Arquitetura-Aberta/info).
 
 - [...] 
 - [...]
