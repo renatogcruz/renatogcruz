@@ -21,3 +21,8 @@ I'm interested in (free, open, generative, meta) design, programming, free softw
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/renatogcruz/c_sharp)
 [![Haskell](https://img.shields.io/badge/Haskell-000000?style=for-the-badge&logo=haskell&logoColor=white)](https://github.com/renatogcruz/aprendendo_haskell)
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://github.com/renatogcruz/CV)
+
+
+[![Grasshopper3d](https://img.shields.io/badge/Grasshopper-239120?style=for-the-badge&logo=grasshopper&logoColor=white)](https://www.grasshopper3d.com/)
+[![Dynamo](https://img.shields.io/badge/Dynamo-007ACC?style=for-the-badge&logo=dynamo&logoColor=white)](https://dynamobim.org/)
+[![Sverchok](https://img.shields.io/badge/Sverchok-CC6699?style=for-the-badge&logo=sverchok&logoColor=white)](https://github.com/nortikin/sverchok)
