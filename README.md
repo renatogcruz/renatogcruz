@@ -12,7 +12,7 @@
 I'm an architect at [Arquitetura Aberta](https://github.com/Arquitetura-Aberta/info).
 
 
-I'm interested in (free, open, generative, meta) design, programming, free software, data analysis, geography, BIM and IFC
+I'm interested in (free, open, [generative](https://github.com/renatogcruz/generative_design), meta) design, programming, free software, [data analysis](https://github.com/renatogcruz/data_science_in_arch), geography, [BIM](https://github.com/renatogcruz/BIM-Modeling) and IFC
 
 
 ### Skills
