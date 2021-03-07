@@ -12,7 +12,7 @@
 I'm an architect at [Arquitetura Aberta](https://github.com/Arquitetura-Aberta/info).
 
 
-I'm interested in free software & open source, design (free, open, [generative](https://github.com/renatogcruz/generative_design), [meta](https://github.com/renatogcruz/metadesign/tree/main)), [AI](https://github.com/renatogcruz/Artificial_Intelligence), [data analysis for AEC](https://github.com/renatogcruz/Data-science-for-architecture), [geography](https://github.com/renatogcruz/urban-planning-and-spatial-analysis), [Building information modeling](https://github.com/renatogcruz/BIM-Modeling) and [IFC](https://en.wikipedia.org/wiki/Industry_Foundation_Classes)
+I'm interested in free software & open source, design (free, open, [generative](https://github.com/renatogcruz/generative_design), [meta](https://github.com/renatogcruz/metadesign/tree/main)), [AI](https://github.com/renatogcruz/Artificial_Intelligence), [data analysis for AEC](https://github.com/renatogcruz/Data-science-for-architecture), [geography](https://github.com/renatogcruz/urban-planning-and-spatial-analysis), [Building information modeling](https://github.com/renatogcruz/BIM-Modeling) and [IFC](https://github.com/renatogcruz/Data-science-for-architecture/tree/main/ifc_analysis)
 
 
 ### Skills
