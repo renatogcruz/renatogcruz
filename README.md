@@ -19,7 +19,6 @@ I'm interested in free software & open source, (free, open, [generative](https:/
 
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://github.com/renatogcruz/python)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/renatogcruz/c_sharp)
-[![Haskell](https://img.shields.io/badge/Haskell-000000?style=for-the-badge&logo=haskell&logoColor=white)](https://github.com/renatogcruz/aprendendo_haskell)
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://github.com/renatogcruz/R)
 
 
