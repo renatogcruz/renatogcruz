@@ -25,3 +25,6 @@ I'm interested in free software & open source, (free, open, [computacional](http
 [![Grasshopper3d](https://img.shields.io/badge/Grasshopper-239120?style=for-the-badge&logo=grasshopper&logoColor=white)](https://www.grasshopper3d.com/)
 [![Dynamo](https://img.shields.io/badge/Dynamo-007ACC?style=for-the-badge&logo=dynamo&logoColor=white)](https://dynamobim.org/)
 [![Sverchok](https://img.shields.io/badge/Sverchok-CC6699?style=for-the-badge&logo=sverchok&logoColor=white)](https://github.com/nortikin/sverchok)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatogcruz&layout=compact)](https://github.com/renatogcruz/github-readme-stats)
