@@ -32,7 +32,7 @@ I'm interested in free software & open source, (free, open, [computacional](http
 [![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)
 [![FreeCAD](https://img.shields.io/badge/FreeCAD-D24939?style=for-the-badge&logo=freecad&logoColor=white)](https://www.freecadweb.org/)
 [![Revit](https://img.shields.io/badge/Revit-0062AD?style=for-the-badge&logo=revit-functions&logoColor=white)](https://www.autodesk.com.br/)
-[![Tekla Struture](https://img.shields.io/badge/Tekla-Structure-00A1E0?style=for-the-badge&logo=Tekla&logoColor=white)](https://teklastructures.support.tekla.com/video-tutorials/pt-pt/steel-basics)
+[![Tekla Struture](https://img.shields.io/badge/TeklaStructures-00A1E0?style=for-the-badge&logo=Tekla&logoColor=white)](https://teklastructures.support.tekla.com/video-tutorials/pt-pt/steel-basics)
 
 
 
