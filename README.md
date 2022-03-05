@@ -1,3 +1,5 @@
+![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{renatogcruz}1212%2Fhit-counter)
+
 # Hello, I'm Renato! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
@@ -16,23 +18,26 @@ I'm interested in free software & open source, (free, open, [computacional](http
 
 ### Skills
 
-[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://github.com/renatogcruz/python)
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/renatogcruz/python)
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://github.com/renatogcruz/R)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/renatogcruz/c_sharp)
-[![SQL](https://img.shields.io/badge/SQL-276DC3?style=for-the-badge&logo=sql&logoColor=white)](https://github.com/renatogcruz/sql)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/renatogcruz/javascript)
-
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
+![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 [![Grasshopper3d](https://img.shields.io/badge/Grasshopper-239120?style=for-the-badge&logo=grasshopper&logoColor=white)](https://www.grasshopper3d.com/)
 [![Dynamo](https://img.shields.io/badge/Dynamo-007ACC?style=for-the-badge&logo=dynamo&logoColor=white)](https://dynamobim.org/)
 [![Sverchok](https://img.shields.io/badge/Sverchok-CC6699?style=for-the-badge&logo=sverchok&logoColor=white)](https://github.com/nortikin/sverchok)
-
-
 [![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)](https://inkscape.org/)
 [![Gimp](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)](https://www.gimp.org/)
 [![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)
 [![FreeCAD](https://img.shields.io/badge/FreeCAD-D24939?style=for-the-badge&logo=freecad&logoColor=white)](https://www.freecadweb.org/)
 [![Revit](https://img.shields.io/badge/Revit-0062AD?style=for-the-badge&logo=revit-functions&logoColor=white)](https://www.autodesk.com.br/)
 [![Tekla Struture](https://img.shields.io/badge/TeklaStructures-00A1E0?style=for-the-badge&logo=Tekla&logoColor=white)](https://teklastructures.support.tekla.com/video-tutorials/pt-pt/steel-basics)
+![QGis](https://img.shields.io/badge/qgis-3.24_Tisler-93b023?&style=for-the-badge&logo=qgis&logoColor=white)
 
 
 
