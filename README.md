@@ -15,6 +15,17 @@ I'm an architect at [arquitetura aberta](https://github.com/Arquitetura-Aberta) 
 
 I'm interested in free software & open source, (free, open, [computacional](https://github.com/renatogcruz/computational-design), [generative](https://github.com/renatogcruz/generative_design), [meta](https://github.com/renatogcruz/metadesign/tree/main)) design, [AI](https://github.com/renatogcruz/Artificial_Intelligence), [data science](https://github.com/renatogcruz/pos_data_science_analytics), [data analysis for AEC](https://github.com/renatogcruz/Data-science-for-architecture), [geography](https://github.com/renatogcruz/urban-planning-and-spatial-analysis), [Building information modeling](https://github.com/renatogcruz/BIM-Modeling) and [IFC](https://github.com/renatogcruz/Data-science-for-architecture/tree/main/ifc_analysis)
 
+### Education
+
+- Posgraduação (lato sensu) in Applied Statistics | Federal University of Minas Gerais, UFMG | 2022 - 2023 (prevision) 
+
+- MBA (lato sensu) in Data Science e Analytics | University of São Paulo, USP | 2021 - 2022 (prevision) 
+
+- Postgraduate (lato sensu) in Building Information Modeling | Pontifical Catholic University of Minas Gerais, PUC | 2020 - 2021 
+
+- Master of Science (M.S.) in Metallic Construction | Federal University of Ouro Preto, UFOP | 2016 - 2018 
+
+- Bachelor of Science (B.S.) in Architecture | Federal University of Ouro Preto, UFOP | 2010 - 2015 
 
 ### Skills
 
