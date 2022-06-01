@@ -1,6 +1,6 @@
 ![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{renatogcruz}1212%2Fhit-counter)
 
-# Hello, I'm Renato! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px">
+# Hello, I'm Renato! :wave:
 
 
 [![Gitlab Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/renatogcruz)
