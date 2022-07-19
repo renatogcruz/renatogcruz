@@ -1,6 +1,6 @@
 ![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{renatogcruz}1212%2Fhit-counter)
 
-# Hello, I'm Renato! :wave:
+# `Hello, I'm Renato!` :wave:
 
 
 [![Gitlab Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/renatogcruz)
@@ -9,14 +9,14 @@
 [![Lattes](https://img.shields.io/badge/Lattes-1877F2?style=for-the-badge&logo=lattes&logoColor=white)](http://lattes.cnpq.br/5501612699856586)
 
 
-### About me
+### `About me`
 I'm an architect at [arquitetura aberta](https://github.com/Arquitetura-Aberta) and  programmer at [lampejjo](https://www.lampejjo.com/).
 
 
 I'm interested in free software & open source, (free, open, [computacional](https://github.com/renatogcruz/computational-design), [generative](https://github.com/renatogcruz/generative_design), [meta](https://github.com/renatogcruz/metadesign/tree/main)) design, [AI](https://github.com/renatogcruz/Artificial_Intelligence), [data science](https://github.com/renatogcruz/pos_data_science_analytics), [data analysis for AEC](https://github.com/renatogcruz/Data-science-for-architecture), [geography](https://github.com/renatogcruz/urban-planning-and-spatial-analysis), [Building information modeling](https://github.com/renatogcruz/BIM-Modeling) and [IFC](https://github.com/renatogcruz/Data-science-for-architecture/tree/main/ifc_analysis)
 
 
-### Skills
+### `Skills`
 
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/renatogcruz/python)
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://github.com/renatogcruz/R)
@@ -59,3 +59,4 @@ I'm interested in free software & open source, (free, open, [computacional](http
 [![Tekla Struture](https://img.shields.io/badge/TeklaStructures-00A1E0?style=for-the-badge&logo=Tekla&logoColor=white)](https://teklastructures.support.tekla.com/video-tutorials/pt-pt/steel-basics)
 ![QGis](https://img.shields.io/badge/qgis-3.24_Tisler-93b023?&style=for-the-badge&logo=qgis&logoColor=white)
 
+### `Free software` 💚
