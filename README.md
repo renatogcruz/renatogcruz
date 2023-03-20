@@ -60,4 +60,4 @@ I'm interested in free software & open source, (free, open, [computacional](http
 [![Tekla Struture](https://img.shields.io/badge/TeklaStructures-00A1E0?style=for-the-badge&logo=Tekla&logoColor=white)](https://teklastructures.support.tekla.com/video-tutorials/pt-pt/steel-basics)
 ![QGis](https://img.shields.io/badge/qgis-3.24_Tisler-93b023?&style=for-the-badge&logo=qgis&logoColor=white)
 
-### `Free software` 💚
+### `Free code` 💚
