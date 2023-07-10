@@ -61,3 +61,5 @@ I'm interested in free software & open source, (free, open, [computacional](http
 ![QGis](https://img.shields.io/badge/qgis-3.24_Tisler-93b023?&style=for-the-badge&logo=qgis&logoColor=white)
 
 ### `Free code` 💚
+
+<img src="https://github.com/renatogcruz/renatogcruz/assets/32683908/a2cf4a80-3db3-4be5-9636-a73ddd136dea" alt="Minha Imagem" style="width: 800px; height: 400px;">
