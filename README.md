@@ -10,7 +10,10 @@
 
 
 ### `About me`
-I'm an architect at [arquitetura aberta](https://github.com/Arquitetura-Aberta) and  programmer at [Platôs SD](https://github.com/PlatosSD).
+Architect at [Arquitetura Aberta](https://github.com/Arquitetura-Aberta) and data engineer at [Platôs](https://github.com/PlatosSD).
+
+Associate mentor professor in the [MBA program in Data Science and Analytics](https://mbauspesalq.com/cursos/mba-em-data-science-e-analytics) at [USP/Esalq](https://www.esalq.usp.br/).
+
 
 
 I'm interested in free software & open source, (free, open, [computacional](https://github.com/renatogcruz/computational-design), [generative](https://github.com/renatogcruz/generative_design), [meta](https://github.com/renatogcruz/metadesign/tree/main)) design, [AI](https://github.com/renatogcruz/Artificial_Intelligence), [data science](https://github.com/renatogcruz/pos_data_science_analytics), [data analysis for AEC](https://github.com/renatogcruz/Data-science-for-architecture), [geography](https://github.com/renatogcruz/urban-planning-and-spatial-analysis), [Building information modeling](https://github.com/renatogcruz/BIM-Modeling) and [IFC](https://github.com/renatogcruz/Data-science-for-architecture/tree/main/ifc_analysis)
