@@ -10,7 +10,7 @@
 
 
 ### `About me`
-Architect at [Arquitetura Aberta](https://github.com/Arquitetura-Aberta) and data engineer at [Platôs](https://github.com/PlatosSD).
+Architect at [Arquitetura Aberta](https://github.com/Arquitetura-Aberta), Founder of [Platôs](https://github.com/PlatosSD) and data engineer at [Provi](https://provi.com.br/).
 
 Associate mentor professor in the [MBA program in Data Science and Analytics](https://mbauspesalq.com/cursos/mba-em-data-science-e-analytics) at [USP/Esalq](https://www.esalq.usp.br/).
 
